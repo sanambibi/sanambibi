@@ -17,8 +17,8 @@
 
 
 ## 📫 Connect with Me  
-![Gmail](sanambibikhonbati@gmail.com) 
-![GitHub](https://github.com/sanambibi)
-![LinkedIn](https://www.linkedin.com/in/sanam-amirbux-82959133a)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanambibi)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanam-amirbux-82959133a)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanambibikhonbati@gmail.com) 
  
 ⭐ _"Keep learning, keep building, and keep growing."_
