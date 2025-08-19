@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sanam Khonbati
 
-<img src="https://github.com/username/repository/blob/main/images/sanam.jpg" alt="Sanam Bibi Khonbati" width="250" style="border-radius: 15px;">
+<img src="images/sanam.jpg" alt="Sanam Bibi Khonbati" width="250" style="border-radius: 15px;">
 
 💻 **Software Engineering Student** at @ SZABIST University Karachi, Pakistan  
 🌱 Currently learning **Web Development**. 
