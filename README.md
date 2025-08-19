@@ -1,8 +1,6 @@
 # 👋 Hello, I'm Sanam Khonbati
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/username/repository/main/sanam.jpg" alt="Sanam Khonbati" width="250">
-</p>
+<img src="https://raw.githubusercontent.com/username/repository/main/sanam.jpg" width="250">
 
 ## 📌 About Me
 Software Engineering Student | C Programmer | Web Developer
