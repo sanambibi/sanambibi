@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Sanam Khonbati
 
-https://raw.githubusercontent.com/username/repository/main/sanam.jpg
+<p align="center">
+  <img src="https://raw.githubusercontent.com/username/repository/main/sanam.jpg" alt="San
 
 💻 **Software Engineering Student** at @ SZABIST University Karachi, Pakistan  
 🌱 Currently learning **Web Development**. 
