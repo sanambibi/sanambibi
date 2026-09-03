@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi! I'm Sanam Bibi Khonbati
+# <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"> Hi! My name is Sanam Bibi Khonbati
 
 ### Software Engineering Student | Full-Stack & Backend Developer | Exploring AI & Cybersecurity
 
