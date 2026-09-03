@@ -43,7 +43,7 @@ I enjoy working with **backend development, databases, web applications, and sof
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,nodejs,html,css,jquery,postgres,mysql,git,github,visualstudio,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,js,nodejs,express,html,css,jquery,postgres,mysql,git,github,visualstudio,vscode,canva,figma,linux" />
 
 </div>
 
