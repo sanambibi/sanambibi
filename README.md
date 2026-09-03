@@ -30,6 +30,7 @@ I enjoy working with **backend development, databases, web applications, and sof
 
 * 🎓 **Degree:** BS Software Engineering — SZABIST University
 * 🌍 **Location:** Karachi, Pakistan
+* ✉️ **Contact:** sanambibikhonbati@gmail.com
 * 🏦 **Internship:** IT Intern at HBL
 * 💻 **Interests:** Software Development, Backend Development, Databases & AI
 * 🧠 **Currently Learning:** Data Structures & Algorithms, Cybersecurity & AI
